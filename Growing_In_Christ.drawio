@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T03:44:52.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="XUXLweE2WvBHiHKmtrpL" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T03:49:37.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BWmtEOIolknkj4WdwXSf" version="15.5.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="277" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Git5-IpuEjKgYyjOKP_q-983" value="Overcoming Believer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1534" y="262" width="120" height="60" as="geometry" />
+          <mxGeometry x="1504" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Git5-IpuEjKgYyjOKP_q-984" value="Mature Believer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1775" y="220" width="120" height="60" as="geometry" />
@@ -119,6 +119,12 @@
         </mxCell>
         <mxCell id="reC_g7u36sQyInGOi-Wk-1014" value="&lt;b&gt;Bears Fruit&lt;/b&gt;&lt;br&gt;22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, 23 gentleness and self-control. Against such things there is no law." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;spacingLeft=5;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1699" y="747" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="reC_g7u36sQyInGOi-Wk-1015" value="&lt;b&gt;Prioritized&amp;nbsp;Life Matthew 6:33&lt;br&gt;&lt;/b&gt;&lt;div&gt;But seek first the kingdom of God and His righteousness, and all these things shall be added to you.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;spacingLeft=5;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="230" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="reC_g7u36sQyInGOi-Wk-1016" value="&lt;b&gt;Confesses Sin&lt;/b&gt;&lt;br&gt;James 5:16 Therefore, confess your sins to one another, and pray for one another so that you may be healed.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;align=left;spacingLeft=5;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="610" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
